@@ -1,4 +1,4 @@
-Baz
+Suggestion two
 
 ![](test/animateddiscord.svg)
 [<img src="test/animateddiscord.svg">]()
