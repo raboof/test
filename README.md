@@ -1,4 +1,4 @@
-Tralala
+Bar
 
 ![](test/animateddiscord.svg)
 [<img src="test/animateddiscord.svg">]()
