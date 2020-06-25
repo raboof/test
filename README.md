@@ -1,4 +1,4 @@
-Suggestion two
+And Two
 A Two
 ![](test/animateddiscord.svg)
 [<img src="test/animateddiscord.svg">]()
