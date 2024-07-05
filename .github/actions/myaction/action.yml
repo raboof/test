@@ -2,4 +2,4 @@ name: 'My local action'
 description: 'Sets up supersetbot npm lib from the repo or npm'
 runs:
   - name: Some step
-    run: echo 'yay'
+    run: echo 'yob'
