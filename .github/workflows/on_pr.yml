@@ -6,6 +6,7 @@ jobs:
   build:
     if: github.repository == 'raboof/test'
     name: "Build workflow"
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
