@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Build'
-        run: mvn install
+        run: ls && mvn install
 
       - name: 'Prepare Sonar analysis'
         uses: evaristegalois11/sonar-fork-analysis@v1
