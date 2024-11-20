@@ -1,4 +1,4 @@
-name: 'Sonar fork Build'
+name: 'Sonar Fork Upload'
 on:
   workflow_run:
     workflows: [ "Sonar Fork Build" ]
