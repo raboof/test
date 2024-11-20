@@ -15,8 +15,8 @@ jobs:
       - name: 'Sonar analysis'
         uses: evaristegalois11/sonar-fork-analysis@v1
         with:
-          distribution: your-java-distribution
-          java-version: your-java-version
+          distribution: temurin
+          java-version: 11
           github-token: ${{ secrets.GITHUB_TOKEN }}
           sonar-token: ${{ secrets.SONAR_TOKEN }}
           project-key: your-project-key
