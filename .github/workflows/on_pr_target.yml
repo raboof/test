@@ -1,0 +1,14 @@
+name: build
+
+on:
+  pull_request_target:
+    branches:
+      - 'main'
+
+jobs:
+  build:
+    name: "pull-request-target workflow"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "echo main"
+        run: echo main
