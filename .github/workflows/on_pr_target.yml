@@ -10,5 +10,5 @@ jobs:
     name: "pull-request-target workflow"
     runs-on: ubuntu-latest
     steps:
-      - name: "echo main"
-        run: echo main
+      - name: "echo pr"
+        run: echo pr
